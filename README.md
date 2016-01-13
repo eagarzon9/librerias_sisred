@@ -1,2 +1,2 @@
 # librerias_sisred
-Encontraras todas las librerias de sisresd
+Encontraras todas las librerias de sisred
